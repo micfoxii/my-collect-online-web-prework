@@ -1,2 +1,2 @@
 def my_collect(array)
-i=
+if my_collect
